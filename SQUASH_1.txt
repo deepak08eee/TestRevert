@@ -1,3 +1,5 @@
-THis is Squash 1 file committed from git UI - COmmit1
+THis is Squash 1 file committed from git UI onlyyyyyyyyy - COmmit1
 
 COmmit2
+
+Commit 3
