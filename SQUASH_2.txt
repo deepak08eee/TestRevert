@@ -3,3 +3,6 @@ This is Second Squash File - COmmit 1
 
 
 Commit 3
+
+
+THis includes both file changes - smkd cs
