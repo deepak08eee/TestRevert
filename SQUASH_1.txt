@@ -1,0 +1,9 @@
+THis is Squash 1 file committed from git UI onlyyyyyyyyy - COmmit1
+
+COmmit2
+
+Commit 3
+
+THis includes both file changes
+
+This is for approval testing
